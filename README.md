@@ -1,4 +1,4 @@
-# biodata
+# Biodata
 membuat biodata diri dengan bahasa program python
 
 
@@ -32,10 +32,11 @@ menyediakannya secara default.
 python (python.org). Ikuti langkah instalasinya.
 
 ![1.png](/gambar/1.png)
-![2.png](/gambar/2.png)
 ![3.png](/gambar/3.png)
+![2.png](/gambar/2.png)
 ![4.png](/gambar/4.png)
 
+# link download
 
 https://www.python.org/downloads/
 
