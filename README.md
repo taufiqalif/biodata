@@ -31,6 +31,8 @@ menyediakannya secara default.
 • Bagi pengguna Windows, Download di situs resmi
 python (python.org). Ikuti langkah instalasinya.
 
+
+
 ![1.png](/gambar/1.png)
 ![3.png](/gambar/3.png)
 ![2.png](/gambar/2.png)
@@ -39,4 +41,4 @@ python (python.org). Ikuti langkah instalasinya.
 # link download
 
 https://www.python.org/downloads/
-
+https://www.wikipedia.com
