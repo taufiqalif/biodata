@@ -29,6 +29,9 @@ print "BIODATA SAYA"
 print "============"
 
 print "assalamualaikum"
-print "ini adalah biodata diri saya, Nama lengkap saya",nama,",nama panggilan saya",nama2,",NPM saya adalah",npm, ",Saya lahir di",lahir, "tanggal lahir saya",tanggl, "dan umur saya",umur, "tahun Alamat rumah saya di",alamat, "kalian bisa menghubungi saya melalui no ini",no,
+print "ini adalah biodata diri saya, Nama lengkap saya",nama,"
+print ",nama panggilan saya",nama2,",NPM saya adalah",npm, "
+print ",Saya lahir di",lahir, "tanggal lahir saya",tanggl, "dan umur saya",umur,"
+print "tahun Alamat rumah saya di",alamat, "kalian bisa menghubungi saya melalui no ini",no,
 
 print "terimakasih"
