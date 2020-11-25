@@ -41,4 +41,3 @@ python (python.org). Ikuti langkah instalasinya.
 # link download
 
 https://www.python.org/downloads/
-https://www.wikipedia.com
